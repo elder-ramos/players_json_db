@@ -1,21 +1,21 @@
 {
   "players": [
-    { "name": "Elder", "positions": {"ataque": 8, "defesa": 8, "rede": 9}, "selected": true },
-    { "name": "João", "positions": {"ataque": 5, "defesa": 8, "rede": 7}, "selected": true },
-    { "name": "Weydson", "positions": {"ataque": 4, "defesa": 5, "rede": 5}, "selected": true },
-    { "name": "Tertius", "positions": {"ataque": 7, "defesa": 8, "rede": 7}, "selected": true },
-    { "name": "Rafael", "positions": {"ataque": 8, "defesa": 9, "rede": 7}, "selected": true },
-    { "name": "Robinho", "positions": {"ataque": 7, "defesa": 8, "rede": 8}, "selected": true },
-    { "name": "Hatake", "positions": {"ataque": 8, "defesa": 8, "rede": 6}, "selected": true },
-    { "name": "Gego", "positions": {"ataque": 5, "defesa": 5, "rede": 4}, "selected": true },
-    { "name": "Elaine", "positions": {"ataque": 4, "defesa": 5, "rede": 5}, "selected": true },
-    { "name": "Leticia", "positions": {"ataque": 5, "defesa": 6, "rede": 3}, "selected": true },
-    { "name": "Pedrão", "positions": {"ataque": 6, "defesa": 6, "rede": 7}, "selected": true },
-    { "name": "Matheus", "positions": {"ataque": 8, "defesa": 8, "rede": 7}, "selected": true },
-    { "name": "Neto", "positions": {"ataque": 6, "defesa": 6, "rede": 4}, "selected": true },
-    { "name": "Thiago", "positions": {"ataque": 5, "defesa": 4, "rede": 3}, "selected": true },
-    { "name": "Kaio", "positions": {"ataque": 5, "defesa": 5, "rede": 4}, "selected": true },
-    { "name": "Leo", "positions": {"ataque": 4, "defesa": 4, "rede": 3}, "selected": true },
-    { "name": "Daniel", "positions": {"ataque": 5, "defesa": 6, "rede": 8}, "selected": true }
+    { "id": 1, "name": "Elder", "positions": {"ataque": 8, "defesa": 8, "rede": 9}, "selected": true },
+    { "id": 2, "name": "João", "positions": {"ataque": 5, "defesa": 8, "rede": 7}, "selected": true },
+    { "id": 3, "name": "Weydson", "positions": {"ataque": 4, "defesa": 5, "rede": 5}, "selected": true },
+    { "id": 4, "name": "Tertius", "positions": {"ataque": 7, "defesa": 8, "rede": 7}, "selected": true },
+    { "id": 5, "name": "Rafael", "positions": {"ataque": 8, "defesa": 9, "rede": 7}, "selected": true },
+    { "id": 6, "name": "Robinho", "positions": {"ataque": 7, "defesa": 8, "rede": 8}, "selected": true },
+    { "id": 7, "name": "Hatake", "positions": {"ataque": 8, "defesa": 8, "rede": 6}, "selected": true },
+    { "id": 8, "name": "Gego", "positions": {"ataque": 5, "defesa": 5, "rede": 4}, "selected": true },
+    { "id": 9, "name": "Elaine", "positions": {"ataque": 4, "defesa": 5, "rede": 5}, "selected": true },
+    { "id": 10, "name": "Leticia", "positions": {"ataque": 5, "defesa": 6, "rede": 3}, "selected": true },
+    { "id": 11, "name": "Pedrão", "positions": {"ataque": 6, "defesa": 6, "rede": 7}, "selected": true },
+    { "id": 12, "name": "Matheus", "positions": {"ataque": 8, "defesa": 8, "rede": 7}, "selected": true },
+    { "id": 13, "name": "Neto", "positions": {"ataque": 6, "defesa": 6, "rede": 4}, "selected": true },
+    { "id": 14, "name": "Thiago", "positions": {"ataque": 5, "defesa": 4, "rede": 3}, "selected": true },
+    { "id": 15, "name": "Kaio", "positions": {"ataque": 5, "defesa": 5, "rede": 4}, "selected": true },
+    { "id": 16, "name": "Leo", "positions": {"ataque": 4, "defesa": 4, "rede": 3}, "selected": true },
+    { "id": 17, "name": "Daniel", "positions": {"ataque": 5, "defesa": 6, "rede": 8}, "selected": true }
   ]
 }
